@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": " https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Yamunotri-Temple.jpg",
+    "title": "Uttarakhand"
+  },
+  {
+    "id": 2,
+    "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/01/Sun-Temple-Konark-Odisha.jpg",
+    "title": " Odisha"
+  },
+  {
+    "id": 3,
+    "image": " https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Tirupati-Balaji.jpg",
+    "title": "Andhra Pradesh"
+  },
+  {
+    "id": 4,
+    "image": " https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Somnath-Temple.jpg",
+    "title": "Gujarat"
+  },
+  {
+    "id": 5,
+    "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Sanchi-Stupa.jpg ",
+    "title": "Madhya Pradesh"
+  },
+  {
+    "id": 6,
+    "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Rameshwaram-Temple.jpg",
+    "title": "Tamil Nadu"
+  },
+  {
+    "id": 7,
+    "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Vaishno-Devi-Mandir.jpg",
+    "title": "Jammu and Kahsmir"
+  },
+  {
+    "id": 8,
+    "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Siddhivinayak-Temple.jpg",
+    "title": "Maharashtra"
+  },
+  {
+    "id": 9,
+    "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/03/Golden-Temple.jpg",
+    "title": "Punjab"
+  }
+]
